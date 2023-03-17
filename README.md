@@ -81,6 +81,6 @@ Cuéntanos sobre ti y hagamos MATCH.
 
 <p align="center">
   <a href="https://bewanted.com/candidatos/dWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ">
-    <img width="300px" src="https://user-images.githubusercontent.com/99735714/225671181-22292fa5-4acf-41be-ac3e-ff3e71c75042.png" alt="GO!" />
+    <img width="300px" src="https://user-images.githubusercontent.com/99735714/225671181-22292fa5-4acf-41be-ac3e-ff3e71c75042.png" alt=" GO! " />
   </a>
 </p>
