@@ -47,7 +47,7 @@ Participa en <b>equipos multidisciplinares</b> en los modos <b>lab y agile</b> c
 
 ## Workflows
 
-Queremos enseñarte cómo trabajamos en Caixabank Tech, a continuacioin puedes ver el workflow en el desarrollo de una APP.  
+Queremos enseñarte cómo trabajamos en Caixabank Tech, a continuacioin puedes ver el circulo virtuoso que creamos en el desarrollo de una APP. Siempre planificamos nuestros proyectos de forma colaborativa para poder desarrollar con un workflow ágil. Tenemos un gran reto, la fiabilidad, donde antes de entregar garantizamos que nuestro proyecto es seguro. Por ultimo aplicamos una mejora constante a todos nuestros proyecto al operarlos. 
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/99735714/225675946-14b701a5-be61-456e-9bc2-8b349a8fb712.png" width="300px" alt="Workflows" />
@@ -81,6 +81,6 @@ Cuéntanos sobre ti y hagamos MATCH.
 
 <p align="center">
   <a href="https://bewanted.com/candidatos/dWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ">
-    <img width="300px" src="https://user-images.githubusercontent.com/99735714/225671181-22292fa5-4acf-41be-ac3e-ff3e71c75042.png" alt=" GO! " />
+    <img width="300px" src="https://user-images.githubusercontent.com/99735714/225671181-22292fa5-4acf-41be-ac3e-ff3e71c75042.png" alt="GO!" />
   </a>
 </p>
