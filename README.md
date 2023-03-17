@@ -77,7 +77,7 @@ Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel eu
 
 Ya conoces más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOCKIES LEAGUE y dejar tu huella digital?
 
-Cuéntanos sobre ti y hagamos MATCH
+Cuéntanos sobre ti y hagamos MATCH.
 
 <p align="center">
   <a href="https://bewanted.com/candidatos/dWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ">
