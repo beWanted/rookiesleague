@@ -72,7 +72,7 @@ Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel eu
 ## DO WE MATCH?
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/99735714/225677480-0b2f31be-ecb4-426d-bd17-165ddc7c75aa.png" width="250px" alt="DO WE MATCH?" />
+    <img src="https://user-images.githubusercontent.com/99735714/226678215-e8c859f5-d2f5-44b5-a445-6f2cccfe356c.png" width="500px" alt="DO WE MATCH?" />
 </p>
 
 Ya conoces más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOCKIES LEAGUE y dejar tu huella digital?
