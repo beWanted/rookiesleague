@@ -59,7 +59,7 @@ Queremos enseñarte cómo trabajamos en Caixabank Tech, a continuacioin puedes v
 Nuestros Proyectos requieren custom logic. El código es normalmente la mejor manera de expresar la lógica, usamos custom code en nuestro workFlow a través de:
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/99735714/225676689-ed4f62cd-0352-4a9d-a1b8-12b82344c96a.png" width="250px" alt="Coding" />
+    <img src="https://user-images.githubusercontent.com/128056263/226854386-51484cee-63e7-4d77-9050-62d7c3c708f1.png" width="500px" alt="Coding" />
 </p>
 
 ## Proyectos
@@ -67,7 +67,7 @@ Nuestros Proyectos requieren custom logic. El código es normalmente la mejor ma
 Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel europeo. Nos encargamos de crear las soluciones financieras 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/99735714/225677081-6271fffe-5ca1-44ee-986b-204d53180e8f.png" width="300px" alt="Proyectos" />
+    <img src="https://user-images.githubusercontent.com/128056263/226855350-3e633f2f-eda9-4d8e-bf19-8b21ef10225d.png" width="500px" alt="Proyectos" />
 </p>
 
 ## Hacemos MATCH?
