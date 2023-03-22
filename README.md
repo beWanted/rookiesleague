@@ -72,10 +72,6 @@ Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel eu
 
 ## HACEMOS MATCH?
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/99735714/226678215-e8c859f5-d2f5-44b5-a445-6f2cccfe356c.png" width="500px" alt="DO WE MATCH?" />
-</p>
-
 Disfruta de las ventajas de unirte a la Rookies League
 
 • A tu manera_ Encuentra el equilibrio que necesitas entre trabajo y vida personal, hasta un 60% de trabajo en remoto.
@@ -87,6 +83,10 @@ Disfruta de las ventajas de unirte a la Rookies League
 • Crece_ Nuestro ADN [No Limits 🚀, Tech4u 💻 y One Committed Team 💪] está pensado para que desarrolles todo tu potencial técnico.
 
 • Trabajar aquí compensa_ Saca más partido a tu nómina con el Programa de Retribución Flexible y aprovéchate de unirte a un grupo bancario.
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/99735714/226678215-e8c859f5-d2f5-44b5-a445-6f2cccfe356c.png" width="500px" alt="DO WE MATCH?" />
+</p>
 
 Ya conoces más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOCKIES LEAGUE y dejar tu huella digital?
 
