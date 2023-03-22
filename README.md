@@ -69,7 +69,7 @@ Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel eu
     <img src="https://user-images.githubusercontent.com/99735714/225677081-6271fffe-5ca1-44ee-986b-204d53180e8f.png" width="300px" alt="Proyectos" />
 </p>
 
-## DO WE MATCH?
+## HACEMOS MATCH?
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/99735714/226678215-e8c859f5-d2f5-44b5-a445-6f2cccfe356c.png" width="500px" alt="DO WE MATCH?" />
