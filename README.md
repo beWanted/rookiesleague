@@ -42,7 +42,7 @@ Participa en <b>equipos multidisciplinares</b> en los modos <b>lab y agile</b> c
 
 <p align="center">
   <br />
-    <img src="https://user-images.githubusercontent.com/99735714/225674992-8463de3a-5924-4a62-add6-acc454a747c6.png" width="500px" alt="Innovación" />
+    <img src="https://user-images.githubusercontent.com/128056263/226849755-604b6586-0ce8-425f-aefc-ef9d69792506.png" width="500px" alt="Innovación" />
 </p>
 
 ## Workflows
@@ -50,8 +50,9 @@ Participa en <b>equipos multidisciplinares</b> en los modos <b>lab y agile</b> c
 Queremos enseñarte cómo trabajamos en Caixabank Tech, a continuacioin puedes ver el circulo virtuoso que creamos en el desarrollo de una APP. Siempre planificamos nuestros proyectos de forma colaborativa para poder desarrollar con un workflow ágil. Tenemos un gran reto, la fiabilidad, donde antes de entregar garantizamos que nuestro proyecto es seguro. Por ultimo aplicamos una mejora constante a todos nuestros proyecto al operarlos. 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/99735714/225675946-14b701a5-be61-456e-9bc2-8b349a8fb712.png" width="300px" alt="Workflows" />
-</p>
+    <img src="https://user-images.githubusercontent.com/128056263/226841965-66bd5b48-ada6-400a-841a-a6c3223cac9f.png" width="500px" alt="Workflows" />
+
+
 
 ## Coding
 
@@ -74,6 +75,18 @@ Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel eu
 <p align="center">
     <img src="https://user-images.githubusercontent.com/99735714/226678215-e8c859f5-d2f5-44b5-a445-6f2cccfe356c.png" width="500px" alt="DO WE MATCH?" />
 </p>
+
+Disfruta de las ventajas de unirte a la Rookies League
+
+• A tu manera_ Encuentra el equilibrio que necesitas entre trabajo y vida personal, hasta un 60% de trabajo en remoto.
+
+• Descansa_ Podrás irte de vacaciones 27 días al año con la flexibilidad para escoger la mejor época del año para ti.
+
+• Be Tech, be healthy_ Se acabaron las excusas. Aprovéchate de nuestro programa de Wellbeing. 
+
+• Crece_ Nuestro ADN [No Limits 🚀, Tech4u 💻 y One Committed Team 💪] está pensado para que desarrolles todo tu potencial técnico.
+
+• Trabajar aquí compensa_ Saca más partido a tu nómina con el Programa de Retribución Flexible y aprovéchate de unirte a un grupo bancario.
 
 Ya conoces más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOCKIES LEAGUE y dejar tu huella digital?
 
