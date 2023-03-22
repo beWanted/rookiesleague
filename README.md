@@ -67,7 +67,7 @@ Nuestros Proyectos requieren custom logic. El código es normalmente la mejor ma
 Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel europeo. Nos encargamos de crear las soluciones financieras 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/128056263/226855350-3e633f2f-eda9-4d8e-bf19-8b21ef10225d.png" width="500px" alt="Proyectos" />
+    <img src="https://user-images.githubusercontent.com/128056263/226860077-8b006146-7f19-4882-8ef8-b2e44285d1c2.png" width="500px" alt="Proyectos" />
 </p>
 
 ## Hacemos MATCH?
