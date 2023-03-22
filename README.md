@@ -70,7 +70,7 @@ Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel eu
     <img src="https://user-images.githubusercontent.com/99735714/225677081-6271fffe-5ca1-44ee-986b-204d53180e8f.png" width="300px" alt="Proyectos" />
 </p>
 
-## HACEMOS MATCH?
+## Hacemos MATCH?
 
 Disfruta de las ventajas de unirte a la Rookies League
 
@@ -90,10 +90,10 @@ Disfruta de las ventajas de unirte a la Rookies League
 
 Ya conoces más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOCKIES LEAGUE y dejar tu huella digital?
 
-Cuéntanos sobre ti y hagamos MATCH.
+Pincha en el siguiente link y hagamos MATCH.
 
 <p align="center">
   <a href="https://bewanted.com/candidatos/dWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ">
-    <img width="300px" src="https://user-images.githubusercontent.com/99735714/225671181-22292fa5-4acf-41be-ac3e-ff3e71c75042.png" alt="GO!" />
+    <img width="500px" src="https://user-images.githubusercontent.com/128056263/226853284-218e399b-c0f0-4ac4-a237-2785b8ab377a.png" alt="GO!" />
   </a>
 </p>
