@@ -45,25 +45,21 @@ Participa en <b>equipos multidisciplinares</b> en los modos <b>lab y agile</b> c
     <img src="https://user-images.githubusercontent.com/128056263/226849755-604b6586-0ce8-425f-aefc-ef9d69792506.png" width="500px" alt="Innovación" />
 </p>
 
-## Workflows
-
-Queremos enseñarte cómo trabajamos en Caixabank Tech, a continuacioin puedes ver el circulo virtuoso que creamos en el desarrollo de una APP. Siempre planificamos nuestros proyectos de forma colaborativa para poder desarrollar con un workflow ágil. Tenemos un gran reto, la fiabilidad, donde antes de entregar garantizamos que nuestro proyecto es seguro. Por ultimo aplicamos una mejora constante a todos nuestros proyecto al operarlos. 
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/128056263/226841965-66bd5b48-ada6-400a-841a-a6c3223cac9f.png" width="500px" alt="Workflows" />
-
-
 
 ## Long life to Coding
 
 En el metaverso no hay barreras, tampoco en nuestro ecosistema. Estamos en el front-end de la vanguardia tecnológica financiera. Blockchain, con nosotros te será fácil encontrar tu lugar. No dudamos en experimentar con las tecnologías emergentes y en reinventar nuestra metodología de trabajo cuando es necesario porque en CaixaBank TECH creemos firmemente que en el cambio está la (re)evolución.
 
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/128056263/226854386-51484cee-63e7-4d77-9050-62d7c3c708f1.png" width="500px" alt="Coding" />
+</p>
+  
 Además, desde el primer día, trabajarás rodeado de los mejores profesionales y estarás participando en proyectos que marcarán el futuro de la banca. Te espera un ambiente marcado por la innovación y en el que poner a prueba tus límites. Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel internacional.
 
 Únete al team donde podrás crecer y dejar tu huella en el proceso de transformación digital del Grupo CaixaBank.
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/128056263/226854386-51484cee-63e7-4d77-9050-62d7c3c708f1.png" width="500px" alt="Coding" />
+    <img src="https://user-images.githubusercontent.com/128056263/226841965-66bd5b48-ada6-400a-841a-a6c3223cac9f.png" width="500px" alt="Workflows" />
 </p>
 
 
