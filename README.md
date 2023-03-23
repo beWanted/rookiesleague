@@ -13,6 +13,7 @@ En Caixabank tech estamos cambiando el mundo, somos uno de los mayores motores d
 
 Desarrollamos soluciones financieras end to end con un claro objetivo: reinventar las reglas de juego a nivel tecnológico de una forma inteligente, flexible y con un impacto real en la sociedad.
 
+
 <p align="center">
   <a href="https://www.caixabanktech.com/wp-content/uploads/sites/13/2022/06/tech_cast.mp4-1080p.mp4">
     <img src="https://user-images.githubusercontent.com/99735714/225673692-1c07f497-5c55-463e-a230-2040224340d8.png" width="500px" alt="Pipedream demo static image" />
@@ -40,6 +41,7 @@ Participa en <b>equipos multidisciplinares</b> en los modos <b>lab y agile</b> c
 
 <b>Innovación___</b> Define el futuro de los servicios financieros a través de la identificación, evaluación y prueba de tecnologías de última generación. Colabora con las empresas tecnológicas más punteras del mundo, accediendo (gracias a nuestras alianzas estratégicas) a sus <b>centros de</b> research, certificaciones, formaciones y programas Beta. Forma parte de los equipos que ya están trabajando con tecnologías como blockchain, metaverso, IA avanzada o quantum computing.
 
+
 <p align="center">
   <br />
     <img src="https://user-images.githubusercontent.com/128056263/226849755-604b6586-0ce8-425f-aefc-ef9d69792506.png" width="500px" alt="Innovación" />
@@ -50,17 +52,20 @@ Participa en <b>equipos multidisciplinares</b> en los modos <b>lab y agile</b> c
 
 En el metaverso no hay barreras, tampoco en nuestro ecosistema. Estamos en el front-end de la vanguardia tecnológica financiera. Blockchain, con nosotros te será fácil encontrar tu lugar. No dudamos en experimentar con las tecnologías emergentes y en reinventar nuestra metodología de trabajo cuando es necesario porque en CaixaBank TECH creemos firmemente que en el cambio está la (re)evolución.
 
+
   <p align="center">
     <img src="https://user-images.githubusercontent.com/128056263/226854386-51484cee-63e7-4d77-9050-62d7c3c708f1.png" width="500px" alt="Coding" />
 </p>
-  
+ 
+ 
 Además, desde el primer día, trabajarás rodeado de los mejores profesionales y estarás participando en proyectos que marcarán el futuro de la banca. Te espera un ambiente marcado por la innovación y en el que poner a prueba tus límites. Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel internacional.
 
-Únete al team donde podrás crecer y dejar tu huella en el proceso de transformación digital del Grupo CaixaBank.
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/128056263/226841965-66bd5b48-ada6-400a-841a-a6c3223cac9f.png" width="500px" alt="Workflows" />
 </p>
+
+Únete al team donde podrás crecer y dejar tu huella en el proceso de transformación digital del Grupo CaixaBank.
 
 
 ## Hacemos MATCH?
@@ -77,13 +82,16 @@ Disfruta de las ventajas de unirte a la Rookies League
 
 • Trabajar aquí compensa_ Saca más partido a tu nómina con el Programa de Retribución Flexible y aprovéchate de unirte a un grupo bancario.
 
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/99735714/226678215-e8c859f5-d2f5-44b5-a445-6f2cccfe356c.png" width="500px" alt="DO WE MATCH?" />
 </p>
 
+
 Ya conoces más sobre nosotros, lo que hacemos y como trabajamos en Caixabank tech, ¿Quieres unirte a nuestro programa de trainees ROOCKIES LEAGUE y dejar tu huella digital?
 
 Pincha en el siguiente link y hagamos MATCH.
+
 
 <p align="center">
   <a href="https://bewanted.com/candidatos/dWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ">
