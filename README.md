@@ -54,9 +54,11 @@ Queremos enseñarte cómo trabajamos en Caixabank Tech, a continuacioin puedes v
 
 
 
-## Coding
+## Long life to Coding
 
-Long life to Coding_ En el metaverso no hay barreras, tampoco en nuestro ecosistema.
+En el metaverso no hay barreras, tampoco en nuestro ecosistema. Estamos en el front-end de la vanguardia tecnológica financiera. Blockchain, con nosotros te será fácil encontrar tu lugar. No dudamos en experimentar con las tecnologías emergentes y en reinventar nuestra metodología de trabajo cuando es necesario porque en CaixaBank TECH creemos firmemente que en el cambio está la (re)evolución.
+
+Además, desde el primer día, trabajarás rodeado de los mejores profesionales y estarás participando en proyectos que marcarán el futuro de la banca. Te espera un ambiente marcado por la innovación y en el que poner a prueba tus límites. Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel internacional.
 
 Únete al team donde podrás crecer y dejar tu huella en el proceso de transformación digital del Grupo CaixaBank.
 
@@ -64,15 +66,6 @@ Long life to Coding_ En el metaverso no hay barreras, tampoco en nuestro ecosist
     <img src="https://user-images.githubusercontent.com/128056263/226854386-51484cee-63e7-4d77-9050-62d7c3c708f1.png" width="500px" alt="Coding" />
 </p>
 
-## Proyectos
-
-Estamos en el front-end de la vanguardia tecnológica financiera. Blockchain, con nosotros te será fácil encontrar tu lugar. No dudamos en experimentar con las tecnologías emergentes y en reinventar nuestra metodología de trabajo cuando es necesario porque en CaixaBank TECH creemos firmemente que en el cambio está la (re)evolución.
-
-Además, desde el primer día, trabajarás rodeado de los mejores profesionales y estarás participando en proyectos que marcarán el futuro de la banca. Te espera un ambiente marcado por la innovación y en el que poner a prueba tus límites. Nuestros proyectos abarcan desde desarrollos internos hasta proyectos a nivel internacional.
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/128056263/226860077-8b006146-7f19-4882-8ef8-b2e44285d1c2.png" width="500px" alt="Proyectos" />
-</p>
 
 ## Hacemos MATCH?
 
