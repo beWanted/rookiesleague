@@ -65,10 +65,10 @@ Además, desde el primer día, trabajarás rodeado de los mejores profesionales 
     <img src="https://user-images.githubusercontent.com/128056263/226841965-66bd5b48-ada6-400a-841a-a6c3223cac9f.png" width="500px" alt="Workflows" />
 </p>
 
-Únete al team donde podrás crecer y dejar tu huella en el proceso de transformación digital del Grupo CaixaBank.
-
 
 ## Hacemos MATCH?
+
+Únete al team donde podrás crecer y dejar tu huella en el proceso de transformación digital del Grupo CaixaBank.
 
 Disfruta de las ventajas de unirte a la Rookies League
 
