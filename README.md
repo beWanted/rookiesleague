@@ -95,7 +95,7 @@ Pincha en el siguiente link y hagamos MATCH.
 
 
 <p align="center">
-  <a href="https://bewanted.com/candidatos/datos-personales?partnerName=CaixaBank+Tech&fieldGroupId=94">
+  <a href="https://app.bewanted.com/candidatos/datos-personales?partnerName=CaixaBank+Tech&fieldGroupId=94">
     <img width="500px" src="https://user-images.githubusercontent.com/128056263/226853284-218e399b-c0f0-4ac4-a237-2785b8ab377a.png" alt="GO!" />
   </a>
 </p>
